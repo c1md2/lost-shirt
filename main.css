@@ -20,8 +20,7 @@ html, body {
 
 .wrapper {
     overflow: hidden;
-    min-width: 131
-    0px;
+    min-width: 1340px;
 }
 
 .container {
